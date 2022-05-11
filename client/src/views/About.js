@@ -23,7 +23,7 @@ const About =()=>{
                     style={{
                         textAlign: "justify",
                     }}>
-                        When Im not coding, I enjoy spending time with my Wife and Son. I love spending time outdoors playing golf, going for a walk, or spending time in the Lake Tahoe. 
+                        When Im not coding, I enjoy spending time with my Wife and Son. I love spending time outdoors playing golf, going for a walk, or spending time in the Lake Tahoe area. 
                     </p>
                 </div>
                 <div class="col col-offset-1 aboutImg">
